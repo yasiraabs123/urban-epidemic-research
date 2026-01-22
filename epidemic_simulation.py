@@ -1,8 +1,8 @@
 """
 Epidemic Simulation on Urban Networks
 SEIR model implementation
-Student: Akhmetov Iskandar
-Group: J4132
+Student: Yasir Abbas
+Group: J4133
 """
 
 import numpy as np
@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 print("=" * 60)
 print("EPIDEMIC SIMULATION - SEIR MODEL")
-print("Student: Akhmetov Iskandar, Group J4132")
+print("Student: Yasir Abbas, Group J4133")
 print("=" * 60)
 
 # Create directories
