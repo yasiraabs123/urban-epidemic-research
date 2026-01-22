@@ -65,7 +65,7 @@ def main():
     """Main function"""
     print("\n" + "="*60)
     print("URBAN NETWORK EPIDEMICS - COMPLETE ANALYSIS")
-    print("Student: Akhmetov Iskandar, Group J4132")
+    print("Student: Yasir Abbas, Group J4133")
     print("="*60)
     
     # Check dependencies
@@ -128,4 +128,5 @@ def main():
     print("Ready for presentation and defense.")
 
 if __name__ == "__main__":
+
     main()
