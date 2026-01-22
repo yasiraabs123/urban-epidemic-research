@@ -1,7 +1,7 @@
 """
 Analysis and Visualization of Results
-Student: Akhmetov Iskandar
-Group: J4132
+Student: Yasir Abbas
+Group: J4133
 """
 
 import matplotlib.pyplot as plt
@@ -14,7 +14,7 @@ import seaborn as sns
 
 print("=" * 60)
 print("ANALYSIS AND VISUALIZATION")
-print("Student: Akhmetov Iskandar, Group J4132")
+print("Student: Yasir Abbas, Group J4133")
 print("=" * 60)
 
 # Set style
@@ -385,7 +385,8 @@ def create_summary_table(results, metrics):
     
     return df
 
-if __name__ == "__main__":
+def main():
+    """Main analysis function"""
     print("\nStarting analysis...")
     
     # Load results
@@ -427,3 +428,6 @@ if __name__ == "__main__":
     
     # Show one figure
     plt.show()
+
+if __name__ == "__main__":
+    main()
