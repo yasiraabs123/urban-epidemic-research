@@ -1,7 +1,7 @@
 """
 Network Generation for Three City Types
-Student: Akhmetov Iskandar
-Group: J4132
+Student: Yasir Abbas
+Group: J4133
 Course: Applied Mathematics and Computer Science
 """
 
@@ -12,7 +12,7 @@ import os
 
 print("=" * 60)
 print("NETWORK GENERATION FOR URBAN EPIDEMIC MODELING")
-print("Student: Akhmetov Iskandar, Group J4132")
+print("Student: Yasir Abbas, Group J4133")
 print("=" * 60)
 
 # Create data directory
@@ -160,4 +160,5 @@ if __name__ == "__main__":
     print("=" * 60)
     
     print("\n✅ Task 2 COMPLETED: All networks generated successfully!")
+
     print("Files saved in: data/networks/")
