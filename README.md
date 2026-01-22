@@ -4,8 +4,7 @@
 **Group:** J4133  
 **University:** ITMO University  
 **Course:** Applied Mathematics and Computer Science  
-**Supervisor:** Prof. Vasiliy Leonenko  
-**Date:** January 2024
+**Supervisor:** Prof. Vasiliy Leonenko
 
 ## 📋 Research Overview
 This project investigates how different urban contact network topologies influence epidemic outbreak patterns. The study compares three city types using network-based SEIR simulations.
@@ -20,5 +19,3 @@ This project investigates how different urban contact network topologies influen
 - **Attack rates vary by 25%** depending on network structure
 - **Tailored interventions** are **2x more effective** than uniform approaches
 - Statistical significance: **p < 0.001** for all comparisons
-
-## 🏗️ Project Structure
